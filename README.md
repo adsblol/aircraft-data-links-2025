@@ -1,5 +1,5 @@
-# aircraft-data-links
+# ADSB.lol Aircraft Data Links 
 
-ACARS, VDL2, HFDL data.
+<https://www.adsb.lol/docs/open-data/aircraft-data-links/>
 
-Licensed CC0.
+We collect HFDL, ACARS and VDL2 & publish open data to GitHub Releases.
